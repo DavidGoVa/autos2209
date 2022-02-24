@@ -7,7 +7,7 @@ package holamundo;
 
 /**
  *
- * @author felipezarate
+ * @author david
  */
 public class Persona {
     //Atributos
